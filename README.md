@@ -124,7 +124,7 @@ User: How do I manage it?
 
 Bot: Try taking things one step at a time instead of focusing on everything at once. Deep breathing exercises, limiting screen time before sleep, maintaining a healthy routine, and talking to someone you trust can also help reduce stress and overthinking. Remember to give yourself proper rest and be patient with yourself.
 
-![Chat Screenshot](<img width="1502" height="886" alt="image" src="https://github.com/user-attachments/assets/46bf1cd8-6233-4dc4-b0f0-3d2934eec6db" />)
+<img width="1502" height="886" alt="image" src="https://github.com/user-attachments/assets/46bf1cd8-6233-4dc4-b0f0-3d2934eec6db" />
 
 
 ### 🧠 Emotional Support Conversation
@@ -140,7 +140,7 @@ User: Sometimes I feel like I'm not doing enough in life.
 
 Bot: It's understandable to feel uncertain about whether we're meeting our own expectations. Sometimes, this can stem from comparing ourselves to others or having an idealized vision of success. Have you considered breaking down your goals into smaller, achievable milestones? This can help you focus on progress rather than perfection.
 
-![Chat Screenshot](<img width="1369" height="892" alt="image" src="https://github.com/user-attachments/assets/3cd738e2-22ce-4e90-a5be-a900a5f1895f" />)
+<img width="1369" height="892" alt="image" src="https://github.com/user-attachments/assets/3cd738e2-22ce-4e90-a5be-a900a5f1895f" />
 
 ---
 
