@@ -73,7 +73,7 @@ MENTALHEALTHBOT/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/mental-health-chatbot.git
+git clone https://github.com/CodeCrafter-101/mental-health-chatbot.git
 cd mental-health-chatbot
 ```
 
