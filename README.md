@@ -2,22 +2,22 @@
 
 A simple AI-powered Mental Health Chatbot designed to provide supportive conversations, emotional guidance, and basic wellness assistance through natural language interaction.
 
-> ⚠️ This project is **not a replacement for professional therapy or medical help**. It is intended for educational and supportive purposes only.
+> This project is **not a replacement for professional therapy or medical help**. It is intended for educational and supportive purposes only.
 
 ---
 
-## ✨ Features
+## Features
 
-* 💬 Interactive chatbot conversation
-* 😊 Emotion-aware responses
-* 🧘 Mental wellness suggestions
-* 🔒 User-friendly and simple interface
-* ⚡ Fast response system
-* 🌙 Clean and minimal UI
+* Interactive chatbot conversation
+* Emotion-aware responses
+* Mental wellness suggestions
+* User-friendly and simple interface
+* Fast response system
+* Clean and minimal UI
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -37,7 +37,7 @@ A simple AI-powered Mental Health Chatbot designed to provide supportive convers
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 MENTALHEALTHBOT/
@@ -68,7 +68,7 @@ MENTALHEALTHBOT/
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 ### 1️⃣ Clone the Repository
 
@@ -144,7 +144,7 @@ Bot: It's understandable to feel uncertain about whether we're meeting our own e
 
 ---
 
-## 🎯 Future Improvements
+## Future Improvements
 
 * Voice interaction support
 * Mood tracking system
@@ -155,7 +155,7 @@ Bot: It's understandable to feel uncertain about whether we're meeting our own e
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome.
 
@@ -167,7 +167,7 @@ Contributions are welcome.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Nividha Sohal**
 
